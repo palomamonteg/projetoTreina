@@ -1,0 +1,17 @@
+# Node.js (React)
+node_modules/
+dist/
+build/
+
+# Java/Spring Boot
+target/
+*.log
+*.jar
+*.war
+*.iml
+*.project
+*.classpath
+*.settings/
+
+# Configuração do VS Code
+.vscode/
