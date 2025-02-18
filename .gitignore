@@ -1,9 +1,9 @@
-# Node.js (React)
+# Node.js
 node_modules/
 dist/
 build/
 
-# Java/Spring Boot
+# Java/Spring-Boot
 target/
 *.log
 *.jar
@@ -13,5 +13,5 @@ target/
 *.classpath
 *.settings/
 
-# Configuração do VS Code
+# Vs Code
 .vscode/
